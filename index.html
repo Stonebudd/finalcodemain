@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Property Search</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css" rel="stylesheet" />
+<link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+<div class="container">
+    <h1>Property Search</h1>
+    <input type="text" id="address-input" placeholder="Enter Address here..."/>
+    <div id="suggestionsContainer"></div>
+    <select id="property-type" style="width: 100%;" required>
+    <option value="" disabled selected>Choose Property Type</option>
+    <optgroup label="RESIDENTIAL">
+        <option value="House">House</option>
+        <option value="Apartment/Unit">Apartment/Unit</option>
+        <option value="Townhouse">Townhouse</option>
+        <option value="Villa">Villa</option>
+        <option value="Duplex">Duplex</option>
+        <option value="Semi-detached/Maisonette">Semi-detached/Maisonette</option>
+        <option value="Terrace">Terrace</option>
+        <option value="Dual Occupancy">Dual Occupancy</option>
+        <option value="Serviced Apartment/Short Term Rental">Serviced Apartment/Short Term Rental</option>
+        <option value="Display Home">Display Home</option>
+        </optgroup>
+
+
+        <optgroup label="COMMERCIAL">
+        <option value="Office">Office</option>
+        <option value="Retail">Retail</option>
+        <option value="Warehouse">Warehouse</option>
+        <option value="Block of Flats">Block of Flats</option>
+        <option value="Showroom/Bulky Goods">Showroom/Bulky Goods</option>
+        <option value="Cottage">Boarding House</option>
+        <option value="Hotel/Motel">Hotel/Motel</option>
+        <option value="Pub/Tavern or Gaming">Pub/Tavern or Gaming</option>
+        <option value="Medical Consulting">Medical Consulting</option>
+        <option value="Child Care">Child Care</option>
+        <option value="Aged Care">Aged Care</option>
+        <option value="Land/Development Site">Land/Development Site</option>
+        </optgroup>
+
+
+        <optgroup label="OTHER">
+        <option value ="Acreage">Acreage</option>
+        <option value="Alpine">Alpine</option>
+        <option value="Broad Acre">Broad Acre</option>
+        <option value="Car Park">Car Park</option>
+        <option value="Car Wash">car Wash</option>
+        <option value="Caravan Park">Caravan Park</option>
+        <option value="Caryard">Caryard</option>
+        <option value="Church/Other Place of Worship">Church/Other Place of Worship</option>
+        <option value="Cinema">Cinema</option>
+        <option value="Club">Club</option>
+        <option value="Commercial Farming">Commercial Farming</option>
+        <option value="Cottage">Cottage</option>
+        <option value="Dairy">Dairy</option>
+        <option value="Day Surgery">Day Surgery</option>
+        <option value="Englobo/Pre-development Site">Englobo/Pre-development Site</option>
+        <option value="Extractive Industry/Quarry">Extractive Industry/Quarry</option>
+        <option value="Factory">Factory</option>
+    </optgroup>
+    </select>
+    <div id="otherOptionsContainer"></div>
+    <button id="search-btn">Search</button>
+    <div id="results"></div>
+</div>
+<footer>
+    <div class="footer-content">
+        <p style="color:#576e7e">&copy; 2024 fundstream Group. All rights reserved.</p>
+        <p><a href="https://titancapital.au/terms-and-conditions/">Terms and Conditions</a> | <a href="https://titancapital.au/privacy-policy/">Privacy Policy</a></p>
+        <p>Follow us on 
+            <a href="https://www.linkedin.com/company/titancapitalaustralia/" target="_blank">
+                <img src="pictures/linkedin-logo.svg" alt="LinkedIn" class="linkedin-logo">
+
+            <a href="https://twitter.com/TitanCapital_au" target="_blank">
+                <img src="pictures/X-logo.svg" alt="X" class="X-logo">
+
+            <a href="https://www.facebook.com/TitanCapitalAustralia/" target="_blank">
+            <img src="pictures/facebook-logo.svg" alt="Facebook" class="facebook-logo">
+
+            <a href="https://www.instagram.com/titancapital.au/" target="_blank">
+            <img src="pictures/instagram-logo.svg" alt="Instagram" class="instagram-logo">
+            
+        </p>
+    </div>
+</footer>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.min.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

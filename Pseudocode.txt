@@ -1,0 +1,45 @@
+Certainly! This JavaScript code is designed to work with a web page for property search. It interacts with user input, makes API requests to fetch address suggestions, and handles user selections. Let's break down the code step by step:
+
+### Event Listener for DOMContentLoaded
+- `document.addEventListener('DOMContentLoaded', function() { ... });`
+  - This event listener ensures that the JavaScript code runs only after the entire HTML document (DOM) has been fully loaded. This is important to make sure that all HTML elements are available to be manipulated by JavaScript.
+
+### Variable Declarations
+- Variables are declared to hold references to various HTML elements on the page, such as input fields and containers.
+- `selectedAddressId` is initialized to `null` and will later store the ID of an address selected by the user.
+- `timeoutId` is used for debouncing the address input.
+
+### Address Input Event Listener
+- `addressInput.addEventListener('input', function() { ... });`
+  - An event listener is added to the address input field. It triggers a function every time the user types something into this field.
+
+### Debouncing Mechanism
+- Debouncing is implemented to limit the number of API calls triggered by the user's input. It waits until the user stops typing for a specified amount of time (300 milliseconds in this case) before executing the `fetchSuggestions` function.
+
+### Fetch Suggestions Function
+- `async function fetchSuggestions(query) { ... }`
+  - This is an asynchronous function that fetches address suggestions based on the user's input.
+  - It makes an API request to `https://api.psma.com.au/v1/predictive/address`, sending the user's query as a URL parameter. The function includes headers for 'Accept' and 'Authorization'.
+  - If the response is successful, it calls `displaySuggestions` with the received data.
+  - Error handling is implemented to catch and log any issues that occur during the fetch operation.
+
+### Display Suggestions Function
+- `function displaySuggestions(suggestions) { ... }`
+  - This function takes the suggestions received from the API and dynamically creates and displays clickable div elements for each suggestion.
+  - When a suggestion is clicked, the address input field is updated with the selected address, and `selectedAddressId` is set to the ID of the selected address.
+
+### Property Type Selection Event Listener
+- `propertyTypeSelect.addEventListener('change', function() { ... });`
+  - An event listener for the property type dropdown menu. It shows or hides additional options based on the user's selection.
+
+### Search Button Event Listener
+- `searchButton.addEventListener('click', async function(event) { ... });`
+  - An event listener for the search button. It prevents the default form submission behavior and checks if an address has been selected.
+  - If an address is selected, it makes an API request to fetch more details about the chosen address. The response is then processed and displayed as needed.
+  - Error handling is included to catch and display any issues with the fetch operation.
+
+### Additional Code and Comments
+- The code contains placeholders and comments indicating where additional event listeners and functions should be implemented, such as functions for displaying images, floor plans, and property details.
+- A reminder comment is added to replace hardcoded API keys and file paths with secure methods, especially important for production environments.
+
+This code provides a structured approach to handling user interactions, fetching data from an API based on user input, and dynamically updating the webpage based on the fetched data.

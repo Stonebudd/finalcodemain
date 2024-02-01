@@ -1,0 +1,44 @@
+.icon {
+    width: 24px; /* Icon size */
+    height: 24px;
+    margin-right: 8px;
+}
+.metric-header {
+    font-weight: bold;
+    padding: 0.5rem;
+    background-color: #F3E5AB; /* Light yellow for header background */
+}
+.metric-item {
+    padding: 0.5rem;
+    border-bottom: 1px solid #E5E7EB; /* Light gray for border */
+}
+.metric-item:last-child {
+    border-bottom: none;
+}
+.metric-planning {
+    background-color: #FEF9C3; /* Light yellow for metric background */
+}
+.metric-site {
+    background-color: #D1FAE5; /* Light green for metric background */
+}
+.metric-hazards {
+    background-color: #FEF3C7; /* Light yellow for metric background */
+}
+.metric-improvements {
+    background-color: #FCE7F3; /* Light pink for metric background */
+}
+.metric-suburb {
+    background-color: #FFE4E6; /* Light red for metric background */
+}
+
+.my-4 {
+    display: flex;
+    justify-content: center; /* Aligns images horizontally at the center of the container */
+    align-items: center; /* Aligns images vertically at the center */
+    gap: 10px; /* Optional: adds space between images */
+}
+.my-4 img {
+    width: auto; /* Maintain the original image width */
+    height: 100px; /* Adjust height as needed */
+
+}

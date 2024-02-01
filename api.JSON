@@ -1,0 +1,301 @@
+{
+    "address": "10/5-7 Hill Street, Coolangatta QLD 4225",
+    "property_summary": {
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "carparks": 1,
+        "land_area": 0,
+        "floor_area": 107
+    },
+    "metrics": {
+        "Hazard": [
+            "REVIEW",
+            "REVIEW AFTER PAID",
+            "REJECT",
+            "ACCEPT",
+            "ACCEPT",
+            "ACCEPT",
+            "ACCEPT"
+        ],
+        "Planning Control": [
+            "ACCEPT"
+        ],
+        "Property": [
+            "ACCEPT",
+            "ACCEPT",
+            "ACCEPT"
+        ],
+        "Building": [
+            "ACCEPT",
+            "ACCEPT",
+            "ACCEPT",
+            "ACCEPT",
+            "ACCEPT"
+        ],
+        "Suburb": [
+            "ACCEPT",
+            "ACCEPT",
+            "ACCEPT",
+            "ACCEPT",
+            "ACCEPT",
+            "REVIEW AFTER PAID"
+        ],
+        "Final Result": "REJECT"
+    },
+    "images": {
+        "property": [
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2i74mui63nzi7h7pxa2dqa?signature=1870cf5db5a0556ff97fa081bb68fd705f0a15f4cc1519776ad45186610f30ff",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2i74mui63nzi7h7pxa2dqa?signature=a009b9c1d7b5ff6f527d89cfe6168f8715d4e25b60adc66f528145f85f6da0db",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2i74mui63nzi7h7pxa2dqa?signature=0f732ca0357543d8a3db308f18891ab7eb9b6dcfb06ea8b6157ec9f23e93cf97",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/ca5f2i74mui63nzi7h7pxa2dqa?signature=00fe3bfe19885aaf2dc18f3d00af67efade48bd2ae72fadc02d5f434bef9d6f2",
+                "scanDate": "2023-05-27"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2jh4mui63nzi7h7pxa2dqa?signature=3420821eac418606e20e9a828d4a782fba419e9c2b8de2d3d982433783686bf7",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2jh4mui63nzi7h7pxa2dqa?signature=859beffb6f1af2d53a1c441dc844e31e1614d0a8805c399ba00fc41cabe0b97d",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2jh4mui63nzi7h7pxa2dqa?signature=3d53f5872893b90f0f59ef2c052a7a135c212785ee5c3d4168c645a7a2b3c168",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/ca5f2jh4mui63nzi7h7pxa2dqa?signature=92056cd4760e43b5e1403fcca2e130cff39c8f6e492a8d54f0e9fa77ca812ee8",
+                "scanDate": "2023-05-27"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2jp4mui63nzi7h7pxa2dqa?signature=766c0c8379972267cb8071ce58e2a44ee6e0336d5611a253e76434a255e7600f",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2jp4mui63nzi7h7pxa2dqa?signature=cdac46b1b2ee5a97b598640cd67caae20f8af8f4aa73dc32a3f360f73b1c5bf2",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2jp4mui63nzi7h7pxa2dqa?signature=b9c5ae318a49d30484dd985c226a4aa55716a712200c966a4a797c2974e8be92",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/ca5f2jp4mui63nzi7h7pxa2dqa?signature=a28e3fa97d7949bae1fe3d9209a0e660771cf223c9525be4c39e1b34b21b83c3",
+                "scanDate": "2023-05-27"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2jx4mui63nzi7h7pxa2dqa?signature=dc008895f3c26cf2c97637a3a4010f83c2f8d271348177cc4882ba3557903a2b",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2jx4mui63nzi7h7pxa2dqa?signature=5655bec34c92b1578941c858870a822ade5f6f4cda9dfa21ce2a2cd59c20e792",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2jx4mui63nzi7h7pxa2dqa?signature=5070308c9e7c48cee403369581483eb73b0e5e0dc40eba744f2df07e12b81c9a",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/ca5f2jx4mui63nzi7h7pxa2dqa?signature=41a5db0fa595594d0c1a9a8a3739af6a9e57a8219befe479c1bf6fa45f9a2f1b",
+                "scanDate": "2023-05-27"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2j74mui63nzi7h7pxa2dqa?signature=c72b49d00a35bd74b98e9b44fd993c6013703f12edb9943f8c64d482e9159237",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2j74mui63nzi7h7pxa2dqa?signature=1b6e611a2c9dfbdbeba1ac8f5c9b0d53e69497f5915f866f136f4ecbca806d25",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2j74mui63nzi7h7pxa2dqa?signature=cf8b241af06e28ab705afb2ca1f7627af38f308431ade0a38a5264e0426c17bc",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/ca5f2j74mui63nzi7h7pxa2dqa?signature=05a4f2b951e6aefd3f24dd0e94cc93339b58bc588f9a9aad71276b0fbdf7bbf3",
+                "scanDate": "2023-05-27"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2kh4mui63nzi7h7pxa2dqa?signature=639aca0a3bd49560ddff54bf39a46c7cfa9828e414e8fbeddb01aa5a20123930",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2kh4mui63nzi7h7pxa2dqa?signature=233e42d7405af095a6128fd9136c45cbc55fa2bd22ddbdfc7b2926bcbb4528b5",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2kh4mui63nzi7h7pxa2dqa?signature=0423027a1538f1b67bb733ca0401eb68dbb05a124afab49137c7541e86df8811",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/ca5f2kh4mui63nzi7h7pxa2dqa?signature=ebe3372e415a0b4b410053590d4866a464b8f1fe344a77fe1ab432912d3413c4",
+                "scanDate": "2023-05-27"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2kp4mui63nzi7h7pxa2dqa?signature=02420dd3061b5b27120e7384c897f0a2bc16aa428085d6ba5dcf390352cc6e50",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2kp4mui63nzi7h7pxa2dqa?signature=239101a2656b8bffe127f7486b3c21a75f13f0db68c8e9fd1a7386c90e9e5244",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2kp4mui63nzi7h7pxa2dqa?signature=a342ede932b81475f337d1b6977637f0b2fdfb543047a854addac6d116fbd571",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/ca5f2kp4mui63nzi7h7pxa2dqa?signature=2437aa5fd7d53d23fe7e95c375f5773739871b19f72ef68eac62c888665d4836",
+                "scanDate": "2023-05-27"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2kx4mui63nzi7h7pxa2dqa?signature=a904b494d7a16ffa36e685d19cb48c7ffd0d49521de5661ea000efe82200ce55",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2kx4mui63nzi7h7pxa2dqa?signature=e56f290f4c42430bc162cfcb5ecb63f8bf2e69ad8b38cc44b1b39315f24f9916",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2kx4mui63nzi7h7pxa2dqa?signature=f9bc1295b0ad805ec0f473ded117f9c78ad2589e02b6952c73b49a471f1c3f92",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/ca5f2kx4mui63nzi7h7pxa2dqa?signature=16f42cb79bed38b63c6631ed97036bb0d84040619aec63d1a26b7753e7ce77c6",
+                "scanDate": "2023-05-27"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2k74mui63nzi7h7pxa2dqa?signature=9bab6765b87cd03945e72db696911b2a94bd35b1e7d3a9f1c43913b3dbbb2796",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2k74mui63nzi7h7pxa2dqa?signature=24f907fa300bff60edd199942b88e0cfe967cee0f4c854331a867fa2838c6d60",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2k74mui63nzi7h7pxa2dqa?signature=2a2fbd9f9d5d14bb87372c8d88859e4f89cfc1707591b6b91e0fd738898cf898",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/ca5f2k74mui63nzi7h7pxa2dqa?signature=4ba8ff02129327ed4fd0155b0543957eff174cf67f052c99f76153147fbd3e57",
+                "scanDate": "2023-05-27"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2lh4mui63nzi7h7pxa2dqa?signature=bf58dce0fa3bc1bed935446f1e79fea6c7ecd47076c7ec0c2ffaf1125d67920c",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2lh4mui63nzi7h7pxa2dqa?signature=f19daad9c61ebdaea4eb5828e153fdcaee64ee208784628a7e5589aa16381a5b",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2lh4mui63nzi7h7pxa2dqa?signature=d16013091e7e54162d2cd966c2f51834033df79b3c6cbc3a76be8eb8d1f6061c",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/ca5f2lh4mui63nzi7h7pxa2dqa?signature=e861c92cdf641a5f177281462ddd9e5120b6b6a1fb5a9a026a369b9aaaad0916",
+                "scanDate": "2023-05-27"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2lp4mui63nzi7h7pxa2dqa?signature=85b5b098343d9f92c67878b86877b8a64b99e755f76aebd84f681f048f3bcae2",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2lp4mui63nzi7h7pxa2dqa?signature=5b337a68449e81124cba47ad8cecf0f3590682bb1a87ec15410a9b0f964ddf60",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2lp4mui63nzi7h7pxa2dqa?signature=df5b50ee6c401f96dfb7f53b557c1920481c1ec708298a3690fbf0c9e98abd05",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/ca5f2lp4mui63nzi7h7pxa2dqa?signature=1eb6c4398f30ec8d6e39422a2cc74ced3c8f70c0a839e43930f72ca5b18553ef",
+                "scanDate": "2023-05-27"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2lx4mui63nzi7h7pxa2dqa?signature=d7182b84fbd8199027d489ec8d8e1dcdf40530b0e99c94d4b2c245633615766d",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2lx4mui63nzi7h7pxa2dqa?signature=c0de695f40613db39c07bb8d74f9b47f47f4d479047083403b52b8c4e363d407",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2lx4mui63nzi7h7pxa2dqa?signature=445d8eb8538df73335d60c61a6f43c77be43efd58caf12358c7598bb7d7545c8",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/ca5f2lx4mui63nzi7h7pxa2dqa?signature=720f0f38e1828e8b67801747131a79b8fb232a921dbf45e0c142cc289bcc516f",
+                "scanDate": "2023-05-27"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2l74mui63nzi7h7pxa2dqa?signature=c6935f83e7b58cab4f3f6249b6d6239e33c08baab526f6afb2a7a8d6bc96a9c5",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2l74mui63nzi7h7pxa2dqa?signature=08a24546cf12cfbd7d3627f2ca995248495ed141e4b0cb1eadcbe9f30d8b9a3c",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5f2l74mui63nzi7h7pxa2dqa?signature=36122b99679b224dde5a7b03b14d0af35b3fc449511f88f3cb11e348755de7ea",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/ca5f2l74mui63nzi7h7pxa2dqa?signature=26e7a3ac80e5da22b3422e3012317eec0bd3572da421328d09bc5b6e5e10ee49",
+                "scanDate": "2023-05-27"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5igqh4mui63nzi7h7pxa2dqa?signature=39035a33735cba16f424676503c885907ca4b2a4ea9759d69b5360c9da7fa51e",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5igqh4mui63nzi7h7pxa2dqa?signature=f3f03f4c36963f05e6a616ff0024bc878d76c01682c7f2880f55f2d706fb2a43",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5igqh4mui63nzi7h7pxa2dqa?signature=6eaad633bcea6345e14cce04e29f54789fd153362f71f30cfb182443db07179d",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/ca5igqh4mui63nzi7h7pxa2dqa?signature=127d0b49daceeb0e575aa79043dc2f1cdae14b0572615d62cf36c9cde2905f75",
+                "scanDate": "2023-05-27"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/askoldl6y4i6vbchjvoduu262i?signature=bdd3eafeca720aa0b62c09a0d1165243182225c6ea2495b06bec5ae0ae4de863",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/askoldl6y4i6vbchjvoduu262i?signature=a8800517d060644c7967a3979bbe9c7b02b6c4468e1c4fcef189bbb69db115e7",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/askoldl6y4i6vbchjvoduu262i?signature=17555b550b0f6deee4147bca8ff993945687b9e6283471d1ae2cfd304de869e1",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/askoldl6y4i6vbchjvoduu262i?signature=a9a3f435a86cbc82beedf228f317192338bc85c474aab7257359a9f335d57717",
+                "scanDate": "2020-04-15"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/askolgd6y4i6vbchjvoduu262i?signature=10ace0fc0c09f069a64de33285c52fceb2823a4755b5191d8f84e2670cdc6105",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/askolgd6y4i6vbchjvoduu262i?signature=0e00938f751bc8c874d50ebf5e33262d48eca07a9e01d1986e3bec6d367f0c62",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/askolgd6y4i6vbchjvoduu262i?signature=8a3762f12cc8467fadf874406320279f25205e004aebb703f9d29aadc1d188f8",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/askolgd6y4i6vbchjvoduu262i?signature=4e48c13d6e92af7f68f1cc66815a2eab6616d322e88c2bfcabf4fc0c555941cf",
+                "scanDate": "2020-04-15"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6p36zmi6vb2q4ecdinuh7m?signature=09c84ba7acd530556d961fc6ec9a92e6228289a1e13049cabfb81e27fc271ca7",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6p36zmi6vb2q4ecdinuh7m?signature=23d03326b52dacae49473d0b4979e8281c1c2e71d71335647f08c0abf202a80a",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6p36zmi6vb2q4ecdinuh7m?signature=5282b661cee4fabd37ad65efc9a672d70dcf3e2e9698642c415d059194ac126a",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/qayg6p36zmi6vb2q4ecdinuh7m?signature=917ba20f966cdba0d6e6542de180d5eade5e54ee3f7e47db21847f1c045e4df2",
+                "scanDate": "2020-04-15"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6r36zmi6vb2q4ecdinuh7m?signature=9ad064a49eaa86d0259fbbf20236cd7ee1c164e9b778f4a36593c2c5c6b5099b",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6r36zmi6vb2q4ecdinuh7m?signature=9181361c278196a05a1faed08c8cc0650225d23cd2bf9d05e9c212275e7b6e9b",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6r36zmi6vb2q4ecdinuh7m?signature=42158a3238fe55e6afe8d2900bc41cd6fffe02073654c5e73ebd2e92748afd30",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/qayg6r36zmi6vb2q4ecdinuh7m?signature=3b7bc60d09ae3a9d3b5716497635d8f89a083d9eb9d489d3306fbe9793100a7e",
+                "scanDate": "2020-04-15"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg5336zmi6vb2q4ecdinuh7m?signature=c10d8155ecb43bb236b42ff5c345eefa6ee7a74a1a37c5caadd4328778be0ad6",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg5336zmi6vb2q4ecdinuh7m?signature=2ae1bc85291e278722a1ccc3147c7760a9fba191d21db9366630de907fd5acb8",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg5336zmi6vb2q4ecdinuh7m?signature=60e93106977c903de18ec9868433e79e37354ae5ebe01c045fd526ff6db2c7e7",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/qayg5336zmi6vb2q4ecdinuh7m?signature=f8481bc8a7d5ad2f76aeedeeaeab434de69dd9c327b8fe15736408f41e7d717c",
+                "scanDate": "2020-04-15"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg5536zmi6vb2q4ecdinuh7m?signature=e59cd18ff6dac135cc3acf6bf4f12f4f04d650bc182593590c513a7ea2ac8ff4",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg5536zmi6vb2q4ecdinuh7m?signature=32720b1478b8d6b07841f9191166e8a53d12d8887deece1312d888f1dbbd531b",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg5536zmi6vb2q4ecdinuh7m?signature=7b79f7c7e8024feb136e1cf0c6e6dbc459770aca045ca624d7c609bd66235215",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/qayg5536zmi6vb2q4ecdinuh7m?signature=560c162d59e2f7d6ae3ab0de3b37f96d5706d6626e39bc21947a65a8c6cc5d8e",
+                "scanDate": "2020-04-15"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg5736zmi6vb2q4ecdinuh7m?signature=c86818d4eb9ac8e93688790a72eb3e380648ce0eb05b26ddafa1a7a76b2fb89f",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg5736zmi6vb2q4ecdinuh7m?signature=77267d520b17066964c48f99fe21e667e5f3a883439d8f5624b690384dfc56d6",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg5736zmi6vb2q4ecdinuh7m?signature=a7b8a6248e0094a17569e44d265b89c45d85af10b810f4220d33dd88b5643682",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/qayg5736zmi6vb2q4ecdinuh7m?signature=779c43865afadb4e467fd736f7e45fe2365198c02b6f1dbbbd0a227e15c860db",
+                "scanDate": "2020-04-15"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6b36zmi6vb2q4ecdinuh7m?signature=aa190ae478585b0995f1b0a2e0d8ca6c3067872b1dc15eb422179335bcc01e7c",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6b36zmi6vb2q4ecdinuh7m?signature=2d0d70932116353d6aa5d049e8af24da54fc141cd2b1184fff82e06c5a4cf9bb",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6b36zmi6vb2q4ecdinuh7m?signature=c4868a8ffded1da7ca3d18d77e69e73ca2b9498d8a584f9483ce681dbf8ddd27",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/qayg6b36zmi6vb2q4ecdinuh7m?signature=f9b1500452645612eecddb65a5558d4ae414348e7cf73ddbb2cd5edf7f5de298",
+                "scanDate": "2020-04-15"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6d36zmi6vb2q4ecdinuh7m?signature=525335b44a87f3dc55ca26bc61a0198cd1fed9b3032754b3cd8fff35a5e3c75f",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6d36zmi6vb2q4ecdinuh7m?signature=6ec3ff9f3a8be2a42b7b65008aa675bf73564cd24dd3d61fe6c42f0117a2fb86",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6d36zmi6vb2q4ecdinuh7m?signature=f7286a4a38bd3216bd0c63f320f5f6a28460c1c2098379ea3329811b8056db79",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/qayg6d36zmi6vb2q4ecdinuh7m?signature=b7dfceecc88f0c08e29ec89c8409407880b796e70bb170c5f8b61dce7cdfc6f5",
+                "scanDate": "2020-04-15"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6f36zmi6vb2q4ecdinuh7m?signature=261cb717572b9b50df847c14b2bfe036d28803499c15e299eff832ea393e1b38",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6f36zmi6vb2q4ecdinuh7m?signature=b95ead5e8cdd394ea9ac5e605cd87b31c035f7f45b68b3a741a1ae14e6e2bf93",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6f36zmi6vb2q4ecdinuh7m?signature=4598f6c70dc988d87d6a25fea9003442516a9c653836d27e8255797c2a3ea899",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/qayg6f36zmi6vb2q4ecdinuh7m?signature=50dad816ab22e0618d20169a1b82146e2b3cc37dea0b159809fa98037cb00ea9",
+                "scanDate": "2020-04-15"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6h36zmi6vb2q4ecdinuh7m?signature=942cf68f464ccaf7d1ba8d3ec9dea083238f45689ad476f785912878ed11f6d7",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6h36zmi6vb2q4ecdinuh7m?signature=0cb1482518174e6291bb07f36455ea0f92f0e292abe4314c7db863882ee35435",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6h36zmi6vb2q4ecdinuh7m?signature=8caeecd9ee0386f1193b1fdaeaeb46c92e47305857b298f8c7c7790884b3b981",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/qayg6h36zmi6vb2q4ecdinuh7m?signature=990e035306456f2743854b949b50d0fc80c2f88a9d186e964bb5ddba1ff1ef0c",
+                "scanDate": "2020-04-15"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6j36zmi6vb2q4ecdinuh7m?signature=1e0040d144e1290076ceecbb2f6eab27387f3c3302a3b9e0fc272f2cb1ecb522",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6j36zmi6vb2q4ecdinuh7m?signature=225530b6efc79033afc866367ddb8d702f713f0df1d548b92b2b56d3c1d83f1f",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6j36zmi6vb2q4ecdinuh7m?signature=86dfecf92e2445e6514661cf9673affb994509444228ff28701cded2abb93ce3",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/qayg6j36zmi6vb2q4ecdinuh7m?signature=c835065d69d785656f5e29883688fb43f6215724d463fa3af223ca92903c459f",
+                "scanDate": "2020-04-15"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6l36zmi6vb2q4ecdinuh7m?signature=c7d3b910aa021ae2666f717d9b9d1d4306584ec9d8c4b9fda774bae0448bce6e",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6l36zmi6vb2q4ecdinuh7m?signature=55d66e9d592ceb2364c00d8555b3ab59834bf4f0dc2f1b4189a7bef24e7c3f44",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6l36zmi6vb2q4ecdinuh7m?signature=dc86fd19d4f18a82490d4a3763219f4d216e6dfaf6312d094f8db6154a961096",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/qayg6l36zmi6vb2q4ecdinuh7m?signature=e02d88a396aed2155a32b41ad6bf821deea0d13c6e6615f97db6aff43e4184b5",
+                "scanDate": "2020-04-15"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6n36zmi6vb2q4ecdinuh7m?signature=a0ca3a2c05fcd204c545ccb32151bb222f114bea3327a309dd775b675f1840cc",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6n36zmi6vb2q4ecdinuh7m?signature=f394439c0ac439a088a8ef20ad891d6d79049cf341eca3b82c29d86f97a0710d",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6n36zmi6vb2q4ecdinuh7m?signature=4f363e73227e481ea1fae746e10c976964fda81c874b50614853194854cc3754",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/qayg6n36zmi6vb2q4ecdinuh7m?signature=a46389d1868d97626702206f0ca23aa043ef0d319ce9645b998bcfe37e761b42",
+                "scanDate": "2020-04-15"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6p36zmi6vb2q4ecdinuh7m?signature=09c84ba7acd530556d961fc6ec9a92e6228289a1e13049cabfb81e27fc271ca7",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6p36zmi6vb2q4ecdinuh7m?signature=23d03326b52dacae49473d0b4979e8281c1c2e71d71335647f08c0abf202a80a",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6p36zmi6vb2q4ecdinuh7m?signature=5282b661cee4fabd37ad65efc9a672d70dcf3e2e9698642c415d059194ac126a",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/qayg6p36zmi6vb2q4ecdinuh7m?signature=917ba20f966cdba0d6e6542de180d5eade5e54ee3f7e47db21847f1c045e4df2",
+                "scanDate": "2020-04-15"
+            },
+            {
+                "digitalAssetType": "Image",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6r36zmi6vb2q4ecdinuh7m?signature=9ad064a49eaa86d0259fbbf20236cd7ee1c164e9b778f4a36593c2c5c6b5099b",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6r36zmi6vb2q4ecdinuh7m?signature=9181361c278196a05a1faed08c8cc0650225d23cd2bf9d05e9c212275e7b6e9b",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/qayg6r36zmi6vb2q4ecdinuh7m?signature=42158a3238fe55e6afe8d2900bc41cd6fffe02073654c5e73ebd2e92748afd30",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/qayg6r36zmi6vb2q4ecdinuh7m?signature=3b7bc60d09ae3a9d3b5716497635d8f89a083d9eb9d489d3306fbe9793100a7e",
+                "scanDate": "2020-04-15"
+            }
+        ],
+        "floor_plan": [
+            {
+                "digitalAssetType": "Floor Plan",
+                "basePhotoUrl": "https://images-uat.corelogic.asia/0x0/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5igqp4mui63nzi7h7pxa2dqa?signature=610474128360f1eb5e613e2ce26d6641ca0aebf201d04aa793fa1e1f4a825933",
+                "largePhotoUrl": "https://images-uat.corelogic.asia/768x512/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5igqp4mui63nzi7h7pxa2dqa?signature=850c43e4eb6f477d182d0f2ce21950d9e5e69833506fb39f5519dc33eef13bca",
+                "mediumPhotoUrl": "https://images-uat.corelogic.asia/470x313/filters:stretch()/filters:watermark(cla-digital-assets-prod,watermarks/logo.png,-2p,-2p,30,16,16)/assets/perm/ca5igqp4mui63nzi7h7pxa2dqa?signature=cddd9ce310099ddbfdf40bbdb0098722703ac57c84d4f28aaf20c1fd4c80e339",
+                "thumbnailPhotoUrl": "https://images-uat.corelogic.asia/120x80/filters:stretch()/assets/perm/ca5igqp4mui63nzi7h7pxa2dqa?signature=5f907a2989f082aa450d0535da1bc135aa0594d2d76ea65d0db69bf3e8d42c5d",
+                "scanDate": "2023-05-27"
+            }
+        ]
+    },
+    "error": [],
+    "runtime": "0.693"
+}
